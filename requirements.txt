@@ -1,0 +1,12 @@
+django
+graphene_django
+django-cors-headers
+django-countries
+django-phonenumber-field
+django-recaptcha2
+django-allauth
+fcm-django
+python-stdnum
+django-redis
+django-axes
+psycopg2>=2.7,<2.8 --no-binary psycopg2
